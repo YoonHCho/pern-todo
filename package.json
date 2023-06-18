@@ -1,0 +1,11 @@
+{
+  "name": "pern-todo",
+  "version": "1.0.0",
+  "description": "- React.js\r - PostgreSQL\r - Express.js\r - Node.js\r - Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
